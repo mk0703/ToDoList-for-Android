@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToDoリスト</string>
+    <string name="todo">やること</string>
+    <string name="set">セット</string>
+    <string name="cancel">解除</string>
+</resources>
